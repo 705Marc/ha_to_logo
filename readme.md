@@ -1,7 +1,7 @@
 # Home Assistant App: MQTT HA to LOGO!
 
-[![GitHub Release](https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/mqtt_ha_to_logo?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME/mqtt_ha_to_logo/releases)
-[![License](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/mqtt_ha_to_logo?style=for-the-badge)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/705marc/ha_to_logo?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME/mqtt_ha_to_logo/releases)
+[![License](https://img.shields.io/github/license/705marc/ha_to_logo?style=for-the-badge)](LICENSE)
 [![Home Assistant App](https://img.shields.io/badge/Home%20Assistant-App-blue?style=for-the-badge&logo=home-assistant)](https://www.home-assistant.io/)
 
 A Home Assistant App to bridge Home Assistant MQTT messages and payload formats to Siemens LOGO! PLC-compatible MQTT structures.
